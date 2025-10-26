@@ -1,0 +1,55 @@
+name: Smart_Numarix
+description: Smart Numarix - Your Ultimate Calculator & Utility Hub
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations: # Good to have this
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  google_fonts: ^6.1.0
+  shared_preferences: ^2.2.2
+  fl_chart: ^0.68.0
+  http: ^1.1.0
+  intl: ^0.20.2 # Standard version, 0.20.2 is fine too
+  math_expressions: ^2.4.0
+  table_calendar: ^3.1.0
+
+  # --- ADD THESE FOR HIVE (LOCAL DATABASE) ---
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.0.11 # Hive needs this to find the storage path
+  provider: ^6.1.5+1
+  # ------------------------------------------
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+
+  # --- ADD THESE FOR HIVE (CODE GENERATOR) ---
+  hive_generator: ^2.0.1
+  build_runner: ^2.4.6
+  # -----------------------------------------
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/day_sky.jpg
+    - assets/images/night_sky.jpg
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/icon.png"
+  min_sdk_android: 21
