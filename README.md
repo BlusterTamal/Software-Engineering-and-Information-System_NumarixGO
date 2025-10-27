@@ -27,7 +27,17 @@
 - **Name**: Dr. Kazi Masudul Alam
 - **Designation**: Professor
 - **Discipline**: Computer Science and Engineering
-- **Institution**: Khulna University 
+- **Institution**: Khulna University
+
+## 👥 Team Details
+
+- **MD. Ishrak Dewan** - Project Design, Developer and Idea Making. **(Student ID: 230212)**
+- **Tamal Paul** - Project Lead, Idea Making, Android Studio Expert, App Build. **(Student ID: 230213)**
+  - Email: tamalp241@gmail.com
+  - GitHub: [@BlusterTamal](https://github.com/yourusername)
+- **Jagaran Chakma** - Project Design, Error Solving, App Testing, Coding Expertise. **(Student ID: 230239)**
+
+---
 
 
 ## 📋 Table of Contents
@@ -328,14 +338,6 @@ flutter build ios --release
 - [ ] Multi-currency expense tracking
 
 ---
-
-## 👥 Team Details
-
-- **MD. Ishrak Dewan** - Project Design, Developer and Idea Making. **(Student ID: 230212)**
-- **Tamal Paul** - Project Lead, Idea Making, Android Studio Expert, App Build. **(Student ID: 230213)**
-  - Email: tamalp241@gmail.com
-  - GitHub: [@BlusterTamal](https://github.com/yourusername)
-- **Jagaran Chakma** - Project Design, Error Solving, App Testing, Coding Expertise. **(Student ID: 230239)**
 
 
 ### 🎓 Project Purpose
