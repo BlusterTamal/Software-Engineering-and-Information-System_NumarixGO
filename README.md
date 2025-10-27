@@ -2,9 +2,11 @@
 
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-3.24.0-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-3.5.0-0175C2?logo=dart&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter)
+![License](https://img.shields.io/badge/license-MIT-orange.svg)
+![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-lightgrey.svg)
+![University Project](https://img.shields.io/badge/project-CSE%203104-blue)
 
 **A comprehensive Flutter application designed to be your all-in-one solution for various calculations and Conversion needs**
 
