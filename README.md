@@ -6,11 +6,11 @@
 ![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter)
 ![License](https://img.shields.io/badge/license-MIT-orange.svg)
 ![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-lightgrey.svg)
-![University Project](https://img.shields.io/badge/project-CSE%203104-blue)
+![University Project](https://img.shields.io/badge/project-0714%2002%20CSE%203104-blue)
 
 **A comprehensive Flutter application designed to be your all-in-one solution for various calculations and Conversion needs**
 
-[Features](#-features) • [Installation](#-installation) • [Tech Stack](#-tech-stack) • [Project Structure](#-project-structure) • [Screenshots](#-screenshots) • [Contributing](#-contributing)
+[Features](#-features) • [Installation](#-installation) • [Tech Stack](#-tech-stack) • [Project Structure](#-project-structure) • [Contributing](#-contributing)
 
 </div>
 
@@ -34,7 +34,6 @@
 
 - [About](#-about)
 - [Features](#-features)
-- [Screenshots](#-screenshots)
 - [Tech Stack](#-tech-stack)
 - [Installation](#-installation)
 - [Project Structure](#-project-structure)
